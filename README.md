@@ -1,6 +1,6 @@
-# Mudra Application  
+# Mudra
 
-Mudra is a **gesture-controlled wearable mouse** that makes interacting with your computer more natural and intuitive.  
+Mudra Ring is a **gesture-controlled wearable mouse** that makes interacting with your computer more natural and intuitive.  
 This desktop application allows you to **map gestures to specific apps** (e.g., VLC, PowerPoint, Zoom) and manage your Mudra device easily.  
 
 ---
@@ -50,13 +50,5 @@ This desktop application allows you to **map gestures to specific apps** (e.g., 
 ## ❓ Support  
 
 If you face any issues or have suggestions, please raise them in the **[Issues](./issues)** section.  
-
----
-
-## 👨‍💻 Author  
-
-**Devarshi Bohra**  
-B.Tech Computer Science – Final Year  
-Passionate about **Human-Computer Interaction & Embedded Systems**  
 
 ---
