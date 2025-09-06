@@ -35,14 +35,20 @@ This desktop application allows you to **map gestures to specific apps** (e.g., 
 
 ## 📸 Screenshots  
 
-*(Add 2–3 images of the app UI and gesture mapping screen here)*  
+### Home Screen  
+![Home Screen](./assets/home.png) 
+
+### Gesture Mapping Screen  
+![Gesture Mapping](./assets/mapping.png)
+
+### Pair Screen
+![Pair](./assets/pair.png)
 
 ---
 
 ## 🔮 Future Updates  
 
-- More gesture options  
-- Advanced customization  
+- More gesture options    
 - Cross-platform support (Mac, Linux)  
 
 ---
