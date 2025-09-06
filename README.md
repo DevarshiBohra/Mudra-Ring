@@ -27,7 +27,7 @@ This desktop application allows you to **map gestures to specific apps** (e.g., 
 ## 🚀 How to Use  
 
 1. Power on your **Mudra device** and connect via Bluetooth.  
-2. Open the `Mudra.exe` application.  
+2. Open the `Mudra-Setup.exe` application.  
 3. Select your preferred **gesture mappings** for apps.  
 4. Start controlling your PC with **gestures + mouse functionality**.  
 
