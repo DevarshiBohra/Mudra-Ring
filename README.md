@@ -55,6 +55,6 @@ This desktop application allows you to **map gestures to specific apps** (e.g., 
 
 ## ❓ Support  
 
-If you face any issues or have suggestions, please raise them in the **[Issues](./issues)** section.  
+If you face any issues or have suggestions, please raise them in the **[Issues](https://github.com/DevarshiBohra/Mudra-Ring/issues)** section.  
 
 ---
