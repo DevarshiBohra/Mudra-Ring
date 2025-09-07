@@ -19,8 +19,7 @@ This desktop application allows you to **map gestures to specific apps** (e.g., 
 ## 📥 Download & Install  
 
 1. Go to the [Releases](https://github.com/DevarshiBohra/Mudra-Ring/releases/tag/v1.0.0) section.  
-2. Download the latest `Mudra.exe` file.  
-3. Double-click to run – no installation needed.  
+2. Download the latest `Mudra.exe` file.   
 
 ---
 
