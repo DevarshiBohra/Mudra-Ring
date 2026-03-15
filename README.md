@@ -2,7 +2,8 @@
 
 Mudra Ring is a **gesture-controlled wearable mouse** that makes interacting with your computer more natural and intuitive.  
 The name Mudra comes from Sanskrit, meaning hand positions, which reflects the device’s core principle of using hand movements for control.  
-This desktop application allows you to **map gestures to specific applications** (e.g., VLC, PowerPoint, Zoom) and manage your Mudra device easily.  
+This desktop application allows you to **map gestures to specific applications** (e.g., VLC, PowerPoint, Zoom) and manage your Mudra device easily.
+This project integrates **Data Engineering** and **AI/ML models**, forming a complete **Data Science pipeline**.
 
 ---
 
